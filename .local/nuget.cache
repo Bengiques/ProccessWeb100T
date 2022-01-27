@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "muwEkfVepmfkKxOKiLqj3rCjJRa9PEnD5QZoIRiB2wVLltPu4N3rkwPHxqMDMt0f2e9gbJuFCZiozrZrueepFQ==",
+  "dgSpecHash": "xRKeRw6HvvYGJbZoZcl1JTGxAHLg9GgiQ0VJIpqojOcBkgv/wcAGtSe6KBHPSkVgpBN0cOw3zJGc7p33XBxPpg==",
   "success": true,
   "projectFilePath": "C:\\Users\\CptServiceUipath\\Documents\\UiPath\\processToCoWeb100T\\.local\\",
   "expectedPackageFiles": [
@@ -98,7 +98,7 @@
     "C:\\Users\\CptServiceUipath\\.nuget\\packages\\uipath.ocr.activities\\3.3.2\\uipath.ocr.activities.3.3.2.nupkg.sha512",
     "C:\\Users\\CptServiceUipath\\.nuget\\packages\\uipath.ocr.contracts\\2.9.1\\uipath.ocr.contracts.2.9.1.nupkg.sha512",
     "C:\\Users\\CptServiceUipath\\.nuget\\packages\\uipath.platform\\21.10.0\\uipath.platform.21.10.0.nupkg.sha512",
-    "C:\\Users\\CptServiceUipath\\.nuget\\packages\\uipath.system.activities\\21.10.3\\uipath.system.activities.21.10.3.nupkg.sha512",
+    "C:\\Users\\CptServiceUipath\\.nuget\\packages\\uipath.system.activities\\21.10.4\\uipath.system.activities.21.10.4.nupkg.sha512",
     "C:\\Users\\CptServiceUipath\\.nuget\\packages\\uipath.telemetry.client\\1.5.3\\uipath.telemetry.client.1.5.3.nupkg.sha512",
     "C:\\Users\\CptServiceUipath\\.nuget\\packages\\uipath.uiautomation.activities\\21.10.5\\uipath.uiautomation.activities.21.10.5.nupkg.sha512",
     "C:\\Users\\CptServiceUipath\\.nuget\\packages\\uipath.vision\\3.1.4\\uipath.vision.3.1.4.nupkg.sha512"
