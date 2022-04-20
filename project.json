@@ -3,10 +3,11 @@
   "description": "Processus vierge",
   "main": "FlowDeConnection.xaml",
   "dependencies": {
+    "BalaReva.Excel.Activities": "[2021.0.0]",
     "coToWeb100T": "[1.0.8]",
     "UiPath.Credentials.Activities": "[2.0.0]",
     "UiPath.Excel.Activities": "[2.11.4]",
-    "UiPath.FormActivityLibrary": "[1.8.0]",
+    "UiPath.FormActivityLibrary": "[1.9.4]",
     "UiPath.Mail.Activities": "[1.12.3]",
     "UiPath.System.Activities": "[21.10.4]",
     "UiPath.UIAutomation.Activities": "[21.10.5]"
@@ -15,7 +16,7 @@
   "entitiesStores": [],
   "schemaVersion": "4.0",
   "studioVersion": "21.4.4.0",
-  "projectVersion": "1.0.1-alpha",
+  "projectVersion": "1.1.0",
   "runtimeOptions": {
     "autoDispose": false,
     "isPausable": true,
